@@ -26,11 +26,11 @@ Kotonoha言語は、自然言語処理技術を用いて、プログラミング
 
 公式ドキュメント: Kotonoha言語公式ドキュメント: [Kotonoha言語公式ドキュメント](https://github.com/BlueSkyProgramming/KotonohaLang)、ガラパゴス記法とKotonoha言語の詳細な解説が提供されています。
 
-チュートリアル: Kotonoha言語チュートリアル: [無効な URL を削除しました]、ガラパゴス記法とKotonoha言語を用いて簡単なアプリ開発を行うことができます。
+チュートリアル: Kotonoha言語チュートリアル: [Kotonoha言語チュートリアル](https://github.com/BlueSkyProgramming/KotonohaLang/wiki/%E3%82%AC%E3%83%A9%E3%83%91%E3%82%B4%E3%82%B9%E8%A8%98%E6%B3%95)、ガラパゴス記法とKotonoha言語を用いて簡単なプログラミング開発を行うことができます。
 
-書籍: ガラパゴス記法によるKotonoha言語入門: [無効な URL を削除しました]、ガラパゴス記法とKotonoha言語を体系的に学ぶことができます。
+- [ ] 書籍: ガラパゴス記法によるKotonoha言語入門: [ガラパゴス記法によるKotonoha言語入門](https://github.com/BlueSkyProgramming/KotonohaLang)、ガラパゴス記法とKotonoha言語を体系的に学ぶことができます。
 
-オンラインコミュニティ: Kotonoha言語公式Discordサーバー: [無効な URL を削除しました]、他の学習者と情報交換したり、質問したりすることができます。
+オンラインコミュニティ: Kotonoha言語公式Discordサーバー: [Kotonoha言語公式Discordサーバー](https://discord.gg/JmSNVKacVV)、他の学習者と情報交換したり、質問したりすることができます。
 
 #まとめ
 
